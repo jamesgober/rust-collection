@@ -1,16 +1,13 @@
 <div align="center">
     <img width="120px" height="auto" src="https://raw.githubusercontent.com/jamesgober/jamesgober/main/media/icons/hexagon-3.svg" alt="Triple Hexagon">
     <h1>
-        <strong>RUST</strong>
+        <strong>RHPL</strong>
         <sup>
             <br>
-            <sub>HIGH-PERFORMANCE LIBRARY COLLECTION</sub>
+            <sub>LIBRARY PURPOSE</sub>
             <br>
         </sup>
     </h1>
 </div>
 
-<br>
-
-
-### COMING SOON 
+### COMING SOON
